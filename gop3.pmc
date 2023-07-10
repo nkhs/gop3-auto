@@ -1,0 +1,82 @@
+﻿[PMC Globals]|None||
+[PMC Code v5.4.1]|F3||0|Window,2,Fast,0,1,Input,-1,-1,1|1|Macro2
+Context=None|
+Groups=Start:1
+1|WinActivate||1|333|WinActivate||Governor of Poker 3 Multiplayer - Google Chrome ahk_class Chrome_WidgetWin_1|||1|
+2|[Pause]||1|2000|Sleep|||||3|
+3|Left Move & Click|977, 987 Left, Down|1|0|Click|||||4|
+4|Left Move & Click|977, 987 Left, Up|1|0|Click|||||5|
+5|[Pause]||1|2000|Sleep|||||6|
+6|Left Move & Click|977, 987 Left, Down|1|0|Click|||||7|
+7|Left Move & Click|977, 987 Left, Up|1|0|Click|||||8|
+8|[Pause]||1|156|Sleep|||||9|
+
+[PMC Code v5.4.1]|Space||1|Window,2,Fast,0,1,Input,-1,-1,1|1|Macro4
+Context=None|
+Groups=Start:1
+1|WinActivate||1|333|WinActivate||Governor of Poker 3 Multiplayer - Google Chrome ahk_class Chrome_WidgetWin_1|||1|
+2|Move|1383, 1008, 0|1|0|Click|||||3|
+3|Left Move & Click|1383, 1008 Left, Down|1|0|Click|||||4|
+4|Left Move & Click|1383, 1008 Left, Up|1|0|Click|||||5|
+5|[Pause]||1|16|Sleep|||||6|
+6|Move|1368, 441, 0|1|0|Click|||||7|
+7|[Pause]||1|62|Sleep|||||8|
+8|Left Move & Click|1368, 441 Left, Down|1|0|Click|||||9|
+9|Left Move & Click|1368, 441 Left, Up|1|0|Click|||||10|
+
+[PMC Code v5.4.1]|d||1|Window,2,Fast,0,1,Input,-1,-1,1|1|Macro3
+Context=None|
+Groups=Start:1
+1|WinActivate||1|333|WinActivate||Governor of Poker 3 Multiplayer - Google Chrome ahk_class Chrome_WidgetWin_1|||1|
+2|Left Move & Click|1193, 973 Left, Down|1|0|Click|||||3|
+3|Left Move & Click|1193, 973 Left, Up|1|0|Click|||||4|
+
+[PMC Code v5.4.1]|f||1|Window,2,Fast,0,1,Input,-1,-1,1|1|Macro5
+Context=None|
+Groups=Start:1
+1|WinActivate||1|333|WinActivate||Governor of Poker 3 Multiplayer - Google Chrome ahk_class Chrome_WidgetWin_1|||1|
+2|Left Move & Click|1409, 971 Left, Down|1|0|Click|||||3|
+3|Left Move & Click|1409, 971 Left, Up|1|0|Click|||||4|
+
+[PMC Code v5.4.1]|s||1|Window,2,Fast,0,1,Input,-1,-1,1|1|Macro6
+Context=None|
+Groups=Start:1
+1|WinActivate||1|333|WinActivate||Governor of Poker 3 Multiplayer - Google Chrome ahk_class Chrome_WidgetWin_1|||1|
+2|Left Move & Click|948, 1005 Left, Down|1|0|Click|||||3|
+3|Left Move & Click|948, 1005 Left, Up|1|0|Click|||||4|
+
+[PMC Code v5.4.1]|a||1|Window,2,Fast,0,1,Input,-1,-1,1|1|Macro7
+Context=None|
+Groups=Start:1
+1|WinActivate||1|333|WinActivate||Governor of Poker 3 Multiplayer - Google Chrome ahk_class Chrome_WidgetWin_1|||1|
+2|Left Move & Click|730, 979 Left, Down|1|0|Click|||||3|
+3|Left Move & Click|730, 979 Left, Up|1|0|Click|||||4|
+
+[PMC Code v5.4.1]|q||1|Window,2,Fast,0,1,Input,-1,-1,1|1|Macro8
+Context=None|
+Groups=Start:1
+1|WinActivate||1|0|WinActivate||Governor of Poker 3 Multiplayer - Google Chrome ahk_class Chrome_WidgetWin_1|||1|
+2|Left Move & Click|1761, 890 Left, Down|1|0|Click|||||2|
+3|Left Move & Click|1761, 890 Left, Up|1|0|Click|||||3|
+
+[PMC Code v5.4.1]|w||1|Window,2,Fast,0,1,Input,-1,-1,1|1|Macro9
+Context=None|
+Groups=Start:1
+1|WinActivate||1|333|WinActivate||Governor of Poker 3 Multiplayer - Google Chrome ahk_class Chrome_WidgetWin_1|||1|
+2|Left Move & Click|1777, 796 Left, Down|1|0|Click|||||3|
+3|Left Move & Click|1777, 796 Left, Up|1|0|Click|||||4|
+
+[PMC Code v5.4.1]|e||1|Window,2,Fast,0,1,Input,-1,-1,1|1|Macro10
+Context=None|
+Groups=Start:1
+1|WinActivate||1|333|WinActivate||New notification ahk_class Windows.UI.Core.CoreWindow|||1|
+2|Left Move & Click|1753, 671 Left, Down|1|0|Click|||||3|
+3|Left Move & Click|1753, 671 Left, Up|1|0|Click|||||4|
+
+[PMC Code v5.4.1]|r||1|Window,2,Fast,0,1,Input,-1,-1,1|1|Macro11
+Context=None|
+Groups=Start:1
+1|WinActivate||1|333|WinActivate||Governor of Poker 3 Multiplayer - Google Chrome ahk_class Chrome_WidgetWin_1|||1|
+2|Left Move & Click|977, 802 Left, Down|1|0|Click|||||3|
+3|Left Move & Click|977, 802 Left, Up|1|0|Click|||||4|
+
